@@ -23,7 +23,6 @@ def print_menu():
     print("4. Area of Regular n-sided Polygon")
     print("5. Exit")
 
-# Menu loop
 while True:
     print_menu()
     choice = input("Choose an option (1–5): ")
